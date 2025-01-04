@@ -165,6 +165,8 @@ db.createUser({
   roles: [{ role: "readWrite", db: "myDatabase" }]
 })
 ```
+![Screenshot from 2025-01-04 02-33-33](https://github.com/user-attachments/assets/8546340a-4ae8-4bdc-b614-3930aac6b2af)
+
 27. Drop a User
 - Drop a user from the database.
 
