@@ -56,6 +56,8 @@ db.createCollection("newCollection")
 ```javascript
 db.myCollection.insertOne({ name: "John Doe", age: 30, city: "New York" })
 ```
+![Screenshot from 2025-01-04 02-20-34](https://github.com/user-attachments/assets/e5240371-d3a6-4c15-b10f-5bc6b1530093)
+
 10. Find Documents in a Collection
 - Query all documents in a collection.
 
